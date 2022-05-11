@@ -1,0 +1,1 @@
+console.log("Welcome to The Data Structure JS Program") 
